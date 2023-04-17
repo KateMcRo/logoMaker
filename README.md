@@ -1,3 +1,27 @@
+# Logo Generator
+
+## Description
+
+This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. It prompts the user to select a color and shape, provide text for the logo, and save the generated image. 
+
+This project:
+- streamlines creating simple logo images.
+- allowed me to practice working with command line applications as well as making tests.
+- reinforced the idea that there isn't just one "right" answer in coding.
+
+## Usage
+
+In the terminal type "node index" to run the application.<br>
+![inputs](assets/images/inputs.png)
+
+Answer the prompts and open your SVG in finder once its generated. <br>
+![inputs](assets/images/logo.png)
+
+[Video Demonstration](https://drive.google.com/file/d/1Us73TF3-JSuJXZKFo3fIXiTSG2FoBGS0/view)
+    
+
+## License
+
 MIT License
 
 Copyright (c) 2023 Kate Rogers
@@ -19,3 +43,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Tests
+
+To run the included tests type "npm test" in the terminal.
